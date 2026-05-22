@@ -1,39 +1,43 @@
-# Black-Friday-Retail-Sales-Analysis
+# Black Friday Retail Sales Analysis
 
-Black Friday Retail Sales Analysis
+## Dataset
 
-Dataset
-retail_black_friday_sales_100k.csv
+- `retail_black_friday_sales_100k.csv`
 
-Scenario
+## Scenario
+
 A retail company wants to optimize marketing campaigns during festive sales.
 
-Tasks
+## Tasks
 
 1. Perform customer purchase analysis.
 2. Identify:
-   ○ Most profitable product categories
-   ○ Gender-based purchasing behavior
-   ○ Age-group spending patterns
+   - Most profitable product categories
+   - Gender-based purchasing behavior
+   - Age-group spending patterns
 3. Analyze:
-   ○ City category vs sales
-   ○ Occupation vs spending
+   - City category vs sales
+   - Occupation vs spending
 4. Detect high-value customers.
 5. Generate business recommendations.
 
-Required Visualizations
+## Required Visualizations
+
 Minimum 3:
-● Countplot → Gender distribution
-● Bar Plot → Product category sales
-● Histogram → Purchase distribution
 
-Optional:
-● Boxplot
-● Heatmap
-● KDE Plot
+- Countplot -> Gender distribution
+- Bar Plot -> Product category sales
+- Histogram -> Purchase distribution
 
-Concepts Covered
-● Customer segmentation
-● Distribution analysis
-● Grouped aggregation
-● Business intelligence analytics
+## Optional
+
+- Boxplot
+- Heatmap
+- KDE Plot
+
+## Concepts Covered
+
+- Customer segmentation
+- Distribution analysis
+- Grouped aggregation
+- Business intelligence analytics
